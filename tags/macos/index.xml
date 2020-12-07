@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>macOS on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/macos/</link>
+    <description>Recent content in macOS on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Tue, 04 Aug 2020 10:23:18 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>最应收藏的苹果 macOS 系统键盘快捷键列表整理</title>
+      <link>/skills/macos/macos-shortcuts.html</link>
+      <pubDate>Tue, 04 Aug 2020 10:23:18 +0800</pubDate>
+      
+      <guid>/skills/macos/macos-shortcuts.html</guid>
+      <description>为了让初次用 Mac 的新手和小白们更快地上手，我们整理了这一份“最值得你记住的 Mac 常用快捷键列表”，虽然都是比较基础的入门知识，但也能帮助到大家更快</description>
+    </item>
+    
+    <item>
+      <title>OpenWRT手动挂载剩余空间</title>
+      <link>/skills/openwrt-manually-mount-the-remaining-space.html</link>
+      <pubDate>Wed, 19 Feb 2020 11:22:51 +0800</pubDate>
+      
+      <guid>/skills/openwrt-manually-mount-the-remaining-space.html</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({}); 一般我们使用软路由的时候，都会使用较大的存储硬盘空间，比如我的就是16G SSD磁盘，但是安装OpenWRT完成后，只使用了一小部分</description>
+    </item>
+    
+    <item>
+      <title>Surge Mac 3 无限试用方案</title>
+      <link>/skills/macos/surge-mac-3-unlimited-trial.html</link>
+      <pubDate>Wed, 29 Jan 2020 21:39:49 +0800</pubDate>
+      
+      <guid>/skills/macos/surge-mac-3-unlimited-trial.html</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({}); 下载官方的试用版本，放到任意文件夹中 启动，选择试用，并进去主界面，然后退出 在同文件夹新建 &amp;gt; surge.sh ，并给x权限，内容如下： #!/usr/bin/env bash cd $(dirname &amp;quot;$0&amp;quot;) read -sp</description>
+    </item>
+    
+    <item>
+      <title>Mac 时间机器 Time Machine 备份速度太慢的解决方法 (加速备份命令)</title>
+      <link>/skills/macos/speed-up-time-machine.html</link>
+      <pubDate>Fri, 25 Oct 2019 19:28:14 +0800</pubDate>
+      
+      <guid>/skills/macos/speed-up-time-machine.html</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({}); 相信用过一段时间电脑的人，都知道经常备份的重要性了。特别最近很多人需要将 Mac 升级到最新版本的 macOS Catalina，为防意外发生，就更需</description>
+    </item>
+    
+    <item>
+      <title>Querious 2.1.15 破解版 – 数据库管理工具</title>
+      <link>/macapps/database-utilities/querious.html</link>
+      <pubDate>Tue, 30 Jul 2019 08:24:36 +0800</pubDate>
+      
+      <guid>/macapps/database-utilities/querious.html</guid>
+      <description>Querious for Mac是一款运行在MacOS平台上的数据库管理工具，Querious mac最大的功能就是可以帮助用户查看、编辑、导入、构建以及配置和监控</description>
+    </item>
+    
+  </channel>
+</rss>

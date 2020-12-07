@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ssh2 on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/ssh2/</link>
+    <description>Recent content in ssh2 on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Thu, 03 Dec 2020 07:54:03 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/ssh2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Electerm 1.10.0 破解版 – 终端模拟器/ssh/sftp客户端</title>
+      <link>/macapps/net-utilities/electerm.html</link>
+      <pubDate>Thu, 03 Dec 2020 07:54:03 +0800</pubDate>
+      
+      <guid>/macapps/net-utilities/electerm.html</guid>
+      <description>Electerm for Mac中文版是一款适用于Mac平台免费的终端模拟器/ssh/sftp客户端软件。Electerm Mac汉化版基于electron/ssh</description>
+    </item>
+    
+    <item>
+      <title>SecureCRT 8.7.3 破解版 – 专业的终端SSH工具</title>
+      <link>/macapps/net-utilities/securecrt.html</link>
+      <pubDate>Sun, 23 Aug 2020 10:05:28 +0800</pubDate>
+      
+      <guid>/macapps/net-utilities/securecrt.html</guid>
+      <description>SecureCRT 是一款 Mac 上专业的终端 SSH 工具，类似于 Windows 中的 Putty，SecureCRT支持 SSH1、SSH2、Telnet 等远程连接，同时具有很多实用和专</description>
+    </item>
+    
+    <item>
+      <title>SecureFX 8.5.3  破解版 – 优秀的安全传输软件</title>
+      <link>/macapps/net-utilities/securefx.html</link>
+      <pubDate>Sun, 19 May 2019 14:09:38 +0800</pubDate>
+      
+      <guid>/macapps/net-utilities/securefx.html</guid>
+      <description>SecureFX for Mac支持三种文件传输协议：FTP、SFTP 和 FTP over SSH2。它可以提供安全文件传输。无论您连接的是任何一种操作系统的服务器，它都能提供安</description>
+    </item>
+    
+  </channel>
+</rss>

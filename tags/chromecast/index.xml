@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chromecast on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/chromecast/</link>
+    <description>Recent content in Chromecast on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Sat, 17 Oct 2020 08:11:12 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/chromecast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Airflow 3.2 破解版 – 影片投放工具</title>
+      <link>/macapps/video-utilities/airflow.html</link>
+      <pubDate>Sat, 17 Oct 2020 08:11:12 +0800</pubDate>
+      
+      <guid>/macapps/video-utilities/airflow.html</guid>
+      <description>Airflow 是一个让电脑支持 Chromecast 远端播放的小工具，它看起來像是个影音播放软件，不过并不是在电脑上看影片用的，而是可以将影片内容投放到同一个局域网中的 Chromecast 或</description>
+    </item>
+    
+    <item>
+      <title>Beamer 3.3.4 破解版 – 专为Mac准备的无线电影播放器</title>
+      <link>/macapps/video-utilities/beamer.html</link>
+      <pubDate>Mon, 08 Apr 2019 15:33:44 +0800</pubDate>
+      
+      <guid>/macapps/video-utilities/beamer.html</guid>
+      <description>Beamer 是一款Mac上知名的AirPlay工具，可以将Mac上的任意视频在Apple TV或Chromecast上播放，简单易用，支持1080P高清</description>
+    </item>
+    
+  </channel>
+</rss>

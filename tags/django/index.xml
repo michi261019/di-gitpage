@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Django on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/django/</link>
+    <description>Recent content in Django on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Sun, 01 Nov 2020 08:25:04 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dash 5.5.1 破解版 – 必备的API文档管理工具</title>
+      <link>/macapps/develop-utilities/dash.html</link>
+      <pubDate>Sun, 01 Nov 2020 08:25:04 +0800</pubDate>
+      
+      <guid>/macapps/develop-utilities/dash.html</guid>
+      <description>Dash 是使用与Mac OS平台的软件编程文档管理工具，可以浏览API文档，以及管理代码片段工具。Dash自带了丰富的API文档，涉及各种主流的编程</description>
+    </item>
+    
+    <item>
+      <title>Jetbrains Pycharm Professional 2020.2.3 破解版 – 强大的Python编程工具</title>
+      <link>/macapps/develop-utilities/jetbrains-pycharm-professional.html</link>
+      <pubDate>Tue, 13 Oct 2020 10:34:25 +0800</pubDate>
+      
+      <guid>/macapps/develop-utilities/jetbrains-pycharm-professional.html</guid>
+      <description>PyCharm是一款由JetBrains出品的强大的Python语言编程IDE，最新版本更新了洋气的图标，完美支持Python 3.5，Doc</description>
+    </item>
+    
+    <item>
+      <title>SQLEditor 3.6.2 破解版 – SQL数据库设计工具</title>
+      <link>/macapps/database-utilities/sqleditor.html</link>
+      <pubDate>Mon, 02 Dec 2019 09:30:28 +0800</pubDate>
+      
+      <guid>/macapps/database-utilities/sqleditor.html</guid>
+      <description>SQLEditor 是一款Mac上优秀的SQL数据库设计工具，能够连接到任何ODBC兼容的数据库，如Oracle，DB2，SQL服务器等，支持导入导出，简单易</description>
+    </item>
+    
+    <item>
+      <title>Wingware Wing Ide Professional 6.1.5-1 破解版 – 优秀的Python开发工具</title>
+      <link>/macapps/develop-utilities/wingware-wing-ide-professional.html</link>
+      <pubDate>Wed, 06 Mar 2019 10:32:34 +0800</pubDate>
+      
+      <guid>/macapps/develop-utilities/wingware-wing-ide-professional.html</guid>
+      <description>WingIDE 是一款Mac上强大的Python开发工具IDE，其编辑器包括大量语言的语法标签高亮显示，调试器设计得很好，编辑器有优秀的命令自动完成和函数</description>
+    </item>
+    
+  </channel>
+</rss>

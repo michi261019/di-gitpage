@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Postico on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/postico/</link>
+    <description>Recent content in Postico on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Wed, 25 Nov 2020 07:40:04 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/postico/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Postico 1.5.16 破解版 – 优秀的PostgreSQL客户端</title>
+      <link>/macapps/develop-utilities/postico.html</link>
+      <pubDate>Wed, 25 Nov 2020 07:40:04 +0800</pubDate>
+      
+      <guid>/macapps/develop-utilities/postico.html</guid>
+      <description>Postico 是一款Mac上优秀的PostgreSQL数据库客户端，支持本地和远程云服务，可用于数据录入、分析和应用程序开发，支持Heroku Postgres, Amazon Redshift, Amazon R</description>
+    </item>
+    
+  </channel>
+</rss>

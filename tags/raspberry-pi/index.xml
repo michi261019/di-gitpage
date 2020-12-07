@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Raspberry Pi on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/raspberry-pi/</link>
+    <description>Recent content in Raspberry Pi on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Thu, 03 Dec 2020 07:57:39 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Serial 2.0.5 破解版 – 优秀的终端模拟工具</title>
+      <link>/macapps/net-utilities/serial.html</link>
+      <pubDate>Thu, 03 Dec 2020 07:57:39 +0800</pubDate>
+      
+      <guid>/macapps/net-utilities/serial.html</guid>
+      <description>Serial 是一款Mac上优秀的终端模拟工具，为工程师和系统管理员方便的嵌入式硬件，包括完整的终端仿真，很不错！ [Serial 在 Mac App Store上售价人民币198元</description>
+    </item>
+    
+    <item>
+      <title>SD Clone Pro 3.2 破解版 – SD卡克隆复制工具</title>
+      <link>/macapps/utilities/sd-clone-pro.html</link>
+      <pubDate>Fri, 28 Feb 2020 13:18:19 +0800</pubDate>
+      
+      <guid>/macapps/utilities/sd-clone-pro.html</guid>
+      <description>SD Clone Pro 是一款SD卡克隆复制工具，能够帮助我们在mac电脑上对SD卡的数据进行高效的复制克隆，轻松备份SD卡上的任何数据，并轻松地恢复其他SD</description>
+    </item>
+    
+  </channel>
+</rss>

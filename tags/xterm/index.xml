@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xterm on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/xterm/</link>
+    <description>Recent content in Xterm on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Sun, 23 Aug 2020 10:05:28 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/xterm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SecureCRT 8.7.3 破解版 – 专业的终端SSH工具</title>
+      <link>/macapps/net-utilities/securecrt.html</link>
+      <pubDate>Sun, 23 Aug 2020 10:05:28 +0800</pubDate>
+      
+      <guid>/macapps/net-utilities/securecrt.html</guid>
+      <description>SecureCRT 是一款 Mac 上专业的终端 SSH 工具，类似于 Windows 中的 Putty，SecureCRT支持 SSH1、SSH2、Telnet 等远程连接，同时具有很多实用和专</description>
+    </item>
+    
+  </channel>
+</rss>

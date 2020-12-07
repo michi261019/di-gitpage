@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WiFi on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/wifi/</link>
+    <description>Recent content in WiFi on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Wed, 29 Jan 2020 21:39:49 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Surge Mac 3 无限试用方案</title>
+      <link>/skills/macos/surge-mac-3-unlimited-trial.html</link>
+      <pubDate>Wed, 29 Jan 2020 21:39:49 +0800</pubDate>
+      
+      <guid>/skills/macos/surge-mac-3-unlimited-trial.html</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({}); 下载官方的试用版本，放到任意文件夹中 启动，选择试用，并进去主界面，然后退出 在同文件夹新建 &amp;gt; surge.sh ，并给x权限，内容如下： #!/usr/bin/env bash cd $(dirname &amp;quot;$0&amp;quot;) read -sp</description>
+    </item>
+    
+    <item>
+      <title>Mac 时间机器 Time Machine 备份速度太慢的解决方法 (加速备份命令)</title>
+      <link>/skills/macos/speed-up-time-machine.html</link>
+      <pubDate>Fri, 25 Oct 2019 19:28:14 +0800</pubDate>
+      
+      <guid>/skills/macos/speed-up-time-machine.html</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({}); 相信用过一段时间电脑的人，都知道经常备份的重要性了。特别最近很多人需要将 Mac 升级到最新版本的 macOS Catalina，为防意外发生，就更需</description>
+    </item>
+    
+  </channel>
+</rss>

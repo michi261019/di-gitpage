@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Let’s Encrypt on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/lets-encrypt/</link>
+    <description>Recent content in Let’s Encrypt on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Thu, 07 May 2020 21:14:58 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/lets-encrypt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>脚本自动续期SSL证书 Let’s Encrypt</title>
+      <link>/skills/website/the_script_automatically_renews_the_ssl_certificate_let_s_encrypt.html</link>
+      <pubDate>Thu, 07 May 2020 21:14:58 +0800</pubDate>
+      
+      <guid>/skills/website/the_script_automatically_renews_the_ssl_certificate_let_s_encrypt.html</guid>
+      <description>Let’s Encrypt:https://letsencrypt.org/ Let’s Encrypt is a free, automated, and open Certificate Authority. 第一种方法 用 acme.sh申请来自动续期ssl证书 acme说明：https://github.com</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Telnet on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/telnet/</link>
+    <description>Recent content in Telnet on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Wed, 02 Dec 2020 07:38:33 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/telnet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ZOC Terminal 8.01.4 破解版 – Telnet/SSH/SSH2终端软件</title>
+      <link>/macapps/net-utilities/zoc-terminal.html</link>
+      <pubDate>Wed, 02 Dec 2020 07:38:33 +0800</pubDate>
+      
+      <guid>/macapps/net-utilities/zoc-terminal.html</guid>
+      <description>ZOC Terminal是一个telnet/ssh/ssh2客户端和终端仿真器。通过标签式会话、类型化命令历史、scrollback和多窗口支持，</description>
+    </item>
+    
+    <item>
+      <title>SecureCRT 8.7.3 破解版 – 专业的终端SSH工具</title>
+      <link>/macapps/net-utilities/securecrt.html</link>
+      <pubDate>Sun, 23 Aug 2020 10:05:28 +0800</pubDate>
+      
+      <guid>/macapps/net-utilities/securecrt.html</guid>
+      <description>SecureCRT 是一款 Mac 上专业的终端 SSH 工具，类似于 Windows 中的 Putty，SecureCRT支持 SSH1、SSH2、Telnet 等远程连接，同时具有很多实用和专</description>
+    </item>
+    
+  </channel>
+</rss>

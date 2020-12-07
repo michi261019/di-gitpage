@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EditPlus on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/editplus/</link>
+    <description>Recent content in EditPlus on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Thu, 12 Nov 2020 07:11:15 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/editplus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BBEdit 13.5.2 破解版 – 强大专业的HTML文本代码编辑器</title>
+      <link>/macapps/develop-utilities/bbedit.html</link>
+      <pubDate>Thu, 12 Nov 2020 07:11:15 +0800</pubDate>
+      
+      <guid>/macapps/develop-utilities/bbedit.html</guid>
+      <description>BBEdit是Mac上知名的文本代码编辑器，类似于Windows上的EditPlus，BBEdit非常适合程序员使用，可以用于编辑HTML、</description>
+    </item>
+    
+    <item>
+      <title>IOS越狱进设置变慢解决办法</title>
+      <link>/skills/ios/ios-jailbreak-settings-slow.html</link>
+      <pubDate>Sun, 15 Dec 2019 10:01:22 +0800</pubDate>
+      
+      <guid>/skills/ios/ios-jailbreak-settings-slow.html</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({}); 安装p佬破解版会卡设置的人，去把p佬插件生成的 /Library/MobileSubstrate/DynamicLibraries/unsub.plist 文件的 com.apple.preference 这行给他删掉，就不卡了 设置不慢了,破解的插件也还可以使用 (adsbygoogle = window.adsbygoogle || []).push({});</description>
+    </item>
+    
+    <item>
+      <title>如何在iCloud.com上恢复已删除的笔记</title>
+      <link>/skills/ios/recover-deleted-notes-icloud.html</link>
+      <pubDate>Wed, 11 Dec 2019 10:01:22 +0800</pubDate>
+      
+      <guid>/skills/ios/recover-deleted-notes-icloud.html</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({}); 有时，我们摆脱了以后需要用到的东西。 无论是短信，电子邮件还是便笺。 虽然您可以轻松地在iPhone或iPad上恢复已删除的笔记，但也</description>
+    </item>
+    
+  </channel>
+</rss>

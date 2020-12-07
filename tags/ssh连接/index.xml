@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SSH连接 on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/ssh%E8%BF%9E%E6%8E%A5/</link>
+    <description>Recent content in SSH连接 on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Wed, 19 Feb 2020 11:22:51 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/ssh%E8%BF%9E%E6%8E%A5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenWRT手动挂载剩余空间</title>
+      <link>/skills/openwrt-manually-mount-the-remaining-space.html</link>
+      <pubDate>Wed, 19 Feb 2020 11:22:51 +0800</pubDate>
+      
+      <guid>/skills/openwrt-manually-mount-the-remaining-space.html</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({}); 一般我们使用软路由的时候，都会使用较大的存储硬盘空间，比如我的就是16G SSD磁盘，但是安装OpenWRT完成后，只使用了一小部分</description>
+    </item>
+    
+  </channel>
+</rss>

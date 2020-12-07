@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MultiMarkdown on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/multimarkdown/</link>
+    <description>Recent content in MultiMarkdown on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Fri, 28 Aug 2020 08:41:09 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/multimarkdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Marked 2.6.1 破解版 – Markdown预览工具</title>
+      <link>/macapps/text-utilities/marked.html</link>
+      <pubDate>Fri, 28 Aug 2020 08:41:09 +0800</pubDate>
+      
+      <guid>/macapps/text-utilities/marked.html</guid>
+      <description>Marked 2是一款Mac上的Markdown预览工具，Marked支持 Scrivener, VoodooPad, MarsEdit等软件，Marked 根据 MD 文章内子标题对全文段落进行自动识</description>
+    </item>
+    
+    <item>
+      <title>Write 2 2.6 破解版 – 现代笔记应用</title>
+      <link>/macapps/text-utilities/write2.html</link>
+      <pubDate>Sun, 29 Dec 2019 10:38:37 +0800</pubDate>
+      
+      <guid>/macapps/text-utilities/write2.html</guid>
+      <description>Write是一款Mac上精美现代笔记应用，全面支持Multimarkdown 4，具有无干扰写作交互界面和多种主题，支持自定义字体和样式，简单</description>
+    </item>
+    
+  </channel>
+</rss>

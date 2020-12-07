@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Terminal on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/terminal/</link>
+    <description>Recent content in Terminal on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Thu, 03 Dec 2020 07:54:03 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Electerm 1.10.0 破解版 – 终端模拟器/ssh/sftp客户端</title>
+      <link>/macapps/net-utilities/electerm.html</link>
+      <pubDate>Thu, 03 Dec 2020 07:54:03 +0800</pubDate>
+      
+      <guid>/macapps/net-utilities/electerm.html</guid>
+      <description>Electerm for Mac中文版是一款适用于Mac平台免费的终端模拟器/ssh/sftp客户端软件。Electerm Mac汉化版基于electron/ssh</description>
+    </item>
+    
+    <item>
+      <title>ZOC Terminal 8.01.4 破解版 – Telnet/SSH/SSH2终端软件</title>
+      <link>/macapps/net-utilities/zoc-terminal.html</link>
+      <pubDate>Wed, 02 Dec 2020 07:38:33 +0800</pubDate>
+      
+      <guid>/macapps/net-utilities/zoc-terminal.html</guid>
+      <description>ZOC Terminal是一个telnet/ssh/ssh2客户端和终端仿真器。通过标签式会话、类型化命令历史、scrollback和多窗口支持，</description>
+    </item>
+    
+    <item>
+      <title>iExplorer 4.4.1 破解版 – Mac上优秀的苹果设备管理工具</title>
+      <link>/macapps/mobile/iexplorer.html</link>
+      <pubDate>Fri, 13 Nov 2020 07:44:23 +0800</pubDate>
+      
+      <guid>/macapps/mobile/iexplorer.html</guid>
+      <description>iExplorer 是一款可以运行在 Mac 和 Windows 平台上的免费软件， 通过这款软件可以非常轻松的访问到 iPhone/iPad 上的应用程序目录、照片目录， 比如你 iPhone 照片库中的照片都可以直接在 iExplorer</description>
+    </item>
+    
+    <item>
+      <title>Lungo 1.9.0 破解版 – 防止屏幕休眠</title>
+      <link>/macapps/utilities/lungo.html</link>
+      <pubDate>Fri, 13 Nov 2020 07:11:32 +0800</pubDate>
+      
+      <guid>/macapps/utilities/lungo.html</guid>
+      <description>Lungo是一款防止Mac屏幕进入休眠状态的软件，可以满足我们让mac电脑不进入休眠状态的需求。 (adsbygoogle = window.adsbygoogle || []).push({}); 官方网站 Lungo prevents your Mac from falling asleep and your screen from dimming. Important:</description>
+    </item>
+    
+    <item>
+      <title>iTerm2 3.4.0beta11 破解版 – 终端工具</title>
+      <link>/macapps/net-utilities/iterm.html</link>
+      <pubDate>Tue, 20 Oct 2020 10:25:51 +0800</pubDate>
+      
+      <guid>/macapps/net-utilities/iterm.html</guid>
+      <description>iTerm 2 for Mac(终端工具)是一款终端工具。iTerm 2 是替代终端和iTerm的继任者。它适用于MacOS 10.8或更高版本的Mac。iTerm</description>
+    </item>
+    
+    <item>
+      <title>OpenWRT手动挂载剩余空间</title>
+      <link>/skills/openwrt-manually-mount-the-remaining-space.html</link>
+      <pubDate>Wed, 19 Feb 2020 11:22:51 +0800</pubDate>
+      
+      <guid>/skills/openwrt-manually-mount-the-remaining-space.html</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({}); 一般我们使用软路由的时候，都会使用较大的存储硬盘空间，比如我的就是16G SSD磁盘，但是安装OpenWRT完成后，只使用了一小部分</description>
+    </item>
+    
+    <item>
+      <title>Codesigner 0.9.3 beta 4 破解版 – 应用崩溃签名工具</title>
+      <link>/macapps/develop-utilities/codesigner.html</link>
+      <pubDate>Sun, 14 Jul 2019 16:31:03 +0800</pubDate>
+      
+      <guid>/macapps/develop-utilities/codesigner.html</guid>
+      <description>Apple 删除了TNT的证书，因此应用程序将在7月12日之后出现崩溃。目前的解决方案是自己签名。（但不能保证每个崩溃资源都可行，只能是尝试，有更好的</description>
+    </item>
+    
+  </channel>
+</rss>

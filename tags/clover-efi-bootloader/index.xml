@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Clover EFI bootloader on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/clover-efi-bootloader/</link>
+    <description>Recent content in Clover EFI bootloader on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Sun, 20 Oct 2019 10:41:45 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/clover-efi-bootloader/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clover Configurator 5.6.2.0 破解版 – 黑苹果引导四叶草配置工具</title>
+      <link>/macapps/utilities/clover-configurator.html</link>
+      <pubDate>Sun, 20 Oct 2019 10:41:45 +0800</pubDate>
+      
+      <guid>/macapps/utilities/clover-configurator.html</guid>
+      <description>Clover Configurator 是一款最新黑苹果引导四叶草配置工具，大家在安装黑苹果系统的时候就要用到Clover引导启动，但不是每个Clover引导配置都可以使用，那</description>
+    </item>
+    
+    <item>
+      <title>Clover EFI bootloader 2.5 r5095 破解版 – 系统启动引导工具</title>
+      <link>/macapps/develop-utilities/clover-efi-bootloader.html</link>
+      <pubDate>Thu, 10 Oct 2019 10:26:03 +0800</pubDate>
+      
+      <guid>/macapps/develop-utilities/clover-efi-bootloader.html</guid>
+      <description>Clover EFI bootloader是一款系统启动引导工具，可以方便黑苹果的用户来启动引导Mac OS X黑苹果或者原版系统 (adsbygoogle = window.adsbygoogle || []).push({}); Clover is open source based on different projects: Clover, rEFIt, XNU, VirtualBox.</description>
+    </item>
+    
+  </channel>
+</rss>

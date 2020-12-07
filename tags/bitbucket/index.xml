@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bitbucket on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/bitbucket/</link>
+    <description>Recent content in Bitbucket on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 08:37:12 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/bitbucket/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>技术宅的Git图形化工具smartgit</title>
+      <link>/skills/develop/git-graphical-tool-smartgit.html</link>
+      <pubDate>Sun, 01 Mar 2020 08:37:12 +0800</pubDate>
+      
+      <guid>/skills/develop/git-graphical-tool-smartgit.html</guid>
+      <description>SmartGit是一个图形化的Git客户端，它也可以连接到SVN存储库。很好的支持GitHub和国内的码云gitee.com。反正疫情未散，</description>
+    </item>
+    
+  </channel>
+</rss>

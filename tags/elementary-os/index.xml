@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>elementary OS on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/tags/elementary-os/</link>
+    <description>Recent content in elementary OS on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 14:45:27 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/elementary-os/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>适合小白入门的Linux操作系统发行版推荐</title>
+      <link>/skills/linux/getting-started-linux-distributions.html</link>
+      <pubDate>Sun, 01 Mar 2020 14:45:27 +0800</pubDate>
+      
+      <guid>/skills/linux/getting-started-linux-distributions.html</guid>
+      <description>很多人一见到Linux就发怵，看到黑黑的窗体和各种命令就感觉到高深莫测。这种Linux大多是服务器版的Linux发行版，其实Linux有很多</description>
+    </item>
+    
+  </channel>
+</rss>

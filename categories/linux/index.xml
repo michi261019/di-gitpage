@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on Digit77.com | 海量精品Mac应用免费分享</title>
+    <link>/categories/linux/</link>
+    <description>Recent content in Linux on Digit77.com | 海量精品Mac应用免费分享</description>
+    
+    <language>zh</language>
+    <copyright>©2017-2020 Digit77.com.</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 14:45:27 +0800</lastBuildDate>
+    
+        <atom:link href="/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>适合小白入门的Linux操作系统发行版推荐</title>
+      <link>/skills/linux/getting-started-linux-distributions.html</link>
+      <pubDate>Sun, 01 Mar 2020 14:45:27 +0800</pubDate>
+      
+      <guid>/skills/linux/getting-started-linux-distributions.html</guid>
+      <description>很多人一见到Linux就发怵，看到黑黑的窗体和各种命令就感觉到高深莫测。这种Linux大多是服务器版的Linux发行版，其实Linux有很多</description>
+    </item>
+    
+    <item>
+      <title>OpenWRT手动挂载剩余空间</title>
+      <link>/skills/openwrt-manually-mount-the-remaining-space.html</link>
+      <pubDate>Wed, 19 Feb 2020 11:22:51 +0800</pubDate>
+      
+      <guid>/skills/openwrt-manually-mount-the-remaining-space.html</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({}); 一般我们使用软路由的时候，都会使用较大的存储硬盘空间，比如我的就是16G SSD磁盘，但是安装OpenWRT完成后，只使用了一小部分</description>
+    </item>
+    
+  </channel>
+</rss>
